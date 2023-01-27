@@ -15,7 +15,7 @@ The left is the noisy image corrupted by AWGN, the middle is the denoised image 
 
 # Requirements and Dependencies
 - MATLAB R2019b
-- [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0 & [cuDNN](https://developer.nvidia.com/cudnn) v-5.1
+- [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-10.0 & [cuDNN](https://developer.nvidia.com/cudnn) v-7.2
 - [MatConvNet](http://www.vlfeat.org/matconvnet/)
 - [autonn](https://github.com/vlfeat/autonn)
 - [mcnExtraLayers](https://github.com/albanie/mcnExtraLayers)
